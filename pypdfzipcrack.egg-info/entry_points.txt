@@ -1,0 +1,2 @@
+[console_scripts]
+pdfzipcrack = pypdfzipcrack.pdfzipcrack:main

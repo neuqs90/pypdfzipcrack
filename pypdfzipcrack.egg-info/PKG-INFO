@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: pypdfzipcrack
+Version: 1.0
+Summary: A tool to crack encrypted PDF and ZIP files.
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: PyPDF2
+Requires-Dist: pyzipper
+
 
 # PDF Zip Password Cracker
 
@@ -8,7 +20,7 @@ This package provides tools for cracking password-protected ZIP and PDF files. I
 
 - To install this package, use pip:
 
-        pip install pypdfzipcrack
+        pip install pypdf-zipcracker
 
 - To Run This Tool Just Type :
 

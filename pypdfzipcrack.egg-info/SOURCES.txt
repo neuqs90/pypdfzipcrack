@@ -1,0 +1,10 @@
+README.md
+setup.py
+pypdfzipcrack/__init__.py
+pypdfzipcrack/pdfzipcrack.py
+pypdfzipcrack.egg-info/PKG-INFO
+pypdfzipcrack.egg-info/SOURCES.txt
+pypdfzipcrack.egg-info/dependency_links.txt
+pypdfzipcrack.egg-info/entry_points.txt
+pypdfzipcrack.egg-info/requires.txt
+pypdfzipcrack.egg-info/top_level.txt
